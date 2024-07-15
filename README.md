@@ -1,3 +1,3 @@
 Notes-App
 
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open [https://master--good-looking-notes-app.netlify.app/](https://master--good-looking-notes-app.netlify.app/) to view it in your browser.
